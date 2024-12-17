@@ -63,7 +63,6 @@ data = [
     ("Teknologi", "Perusahaan merilis sistem operasi terbaru untuk perangkat komputer"),
     ("Teknologi", "Inovasi robotika membawa perubahan besar dalam industri manufaktur"),
     ("Teknologi", "Keamanan siber menjadi tantangan utama di era digital"),
-    ("Teknologi", "Wibu-wibu semakin aneh karena adanya boneka seks"),
     ("Bisnis", "Pasar saham naik signifikan hari ini"),
     ("Bisnis", "Perusahaan logistik mencatat keuntungan besar pada kuartal ini"),
     ("Bisnis", "Investasi di bidang energi terbarukan semakin meningkat"),
